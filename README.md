@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a clone of Flipkart-website
 - 🌱 I’m currently learning *Full Stack Web Development*
-- 👨‍💻 My Portfolio: https://portfolio-abhishek9575.netlify.app/
+- 👨‍💻 My Portfolio: https://abhi9575.github.io/Abhishek_Jain_Portfolio/
 - 💬 Ask me about HTML | CSS | JavaScript | React
 
 
