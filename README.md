@@ -1,6 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack developer<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning Node.js<br>💬 Ask me about anything, I would like to share.<br>⚡ Fun fact : The demand for software engineers is constantly growing.
+## Hi👋, I'm Abhishek Jain
 
+
+
+<p align="center"> A passionate Full Stack Developer</p>
+<p align="center"> Aspiring Full Stack Developer with skills in building scalable web applications and using modern technologies. Works well in team environments to deliver high-quality software with care and accuracy. Strong problem-solving abilities and dedication to producing excellent results. Focused on finding solutions and being creative.</p>
+
+
+- 🔭 I’m currently working on a clone of Flipkart-website
+- 🌱 I’m currently learning *Full Stack Web Development*
+- 👨‍💻 My Portfolio: https://melodious-caramel-4fd577.netlify.app/
+- 💬 Ask me about HTML | CSS | JavaScript | React
+
+
+## Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/abhishek-jain-377481247/)
 
 
 # 💻 Tech Stack:
